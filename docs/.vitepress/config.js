@@ -21,6 +21,7 @@ export default defineConfig({
         items: [
           { text: "What's TypeScript?", link: "/ts/whats-typescript.md" },
           { text: "Basic Types", link: "/ts/basic-types" },
+          { text: "The Compiler", link: "/ts/the-compiler" },
         ],
       },
     ],
