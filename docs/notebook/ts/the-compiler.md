@@ -102,6 +102,17 @@ as well as the official [`references` documentation](https://www.typescriptlang.
 
 :::
 
+### My Favorite compilerOptions
+
+`lib` — Defines which libs are enabled in your TS project.
+`sourceMap` — Great for debugging code.
+`outDir` - Sets the folder to output the compiled js into. Often a `./dist` folder.
+`rootDir` - Set a specific folder to look into. Often a `./src` folder.
+`noEmitOnError` — If any file fails to compile, no files will be emitted/compiled. Your project will not be built.
+`strict`
+
+<!-- Add all the type checking flags -->
+
 ## Watch a Project
 
 Once you've run `tsc --init` to initialize your project, we can run `tsc -w` and this will watch *all* files in the directory.

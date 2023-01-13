@@ -3,21 +3,21 @@ layout: home
 
 hero:
   name: DevTalk.fun
-  text: A blog and forum for all things dev.
+  text: A blog and forum to to learn about dev stuff.
   tagline: It's the FUN way to learn tech.
   actions:
     - theme: brand
-      text: What's Typescript?
-      link: /ts/whats-typescript.md
+      text: The Notebook
+      link: /notebook/about-this-notebook
     - theme: alt
-      text: View on GitHub
-      link: https://github.com/vuejs/vitepress
+      text: Cookbook
+      link: /cookbook/whats-a-recipe
 
 features:
-  - title: A cool blog
-    details: Blog content that doesn't suck.
-  - title: A "highly dank" forum
+  - title: A Notebook
+    details: My own extensive notes on software dev stuff. 
+  - title: A Cookbook
     details: Talk to your peers in style.. on Discord!
-  - title: Open Source Genes
-    details: Got something to share? PRs welcome.
+  - title: A Forum
+    details: A Place for Friends!
 ---
