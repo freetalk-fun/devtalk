@@ -35,7 +35,7 @@ When writing a section, I do the following:
 - provide my own examples
 - note best-practices, common defaults, and other things *most people usually do*
 
-A section should provide a *total lay of the land*. Then to get our hands dirty with some real-life projects, I'll try to complement the section with accompanying [recipes in the cookbook](/docs/cookbook/whats-a-recipe.md).
+A section should provide a *total lay of the land*. Then to get our hands dirty with some real-life projects, I'll try to complement the section with accompanying [recipes in the cookbook](/cookbook/whats-a-recipe.md).
 
 :::tip 
 
