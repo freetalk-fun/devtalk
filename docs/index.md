@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: DevTalk.fun
-  text: A blog and forum to to learn about dev stuff.
-  tagline: It's the FUN way to learn tech.
+  text: A blog and forum... for Devs!
+  tagline: Our tutorials will take you from jizzling to jizzboss!
   actions:
     - theme: brand
       text: The Notebook
