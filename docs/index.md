@@ -4,7 +4,7 @@ layout: home
 hero:
   name: DevTalk.fun
   text: A blog and forum... for Devs!
-  tagline: Our tutorials will take you from jizzling to jizzboss!
+  tagline: 
   actions:
     - theme: brand
       text: The Notebook

@@ -43,7 +43,6 @@ Since sections are just my own well-organized notes on a topic, they are inheren
 
 :::
 
-
 ## Why do this?
 
 This is an exercise for my own personal growth. Right now, I'm a software technical writer, but over time I want to grow into a world-class software engineer. 
