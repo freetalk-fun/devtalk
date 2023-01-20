@@ -1,6 +1,6 @@
 # Basic Types
 
-In TypeScript, you simply add on a type annotation to signal what values a variable can store.
+> In TypeScript, a type annotation signals what values a variable can store. TypeScript is pretty smart. Many times they aren't even needed. This pages goes through the basics of type annotations so you know how to identify and use them yourself.
 
 
 :::tip 
@@ -52,6 +52,7 @@ let l: string[] = ['one', "two", "three"];
 
 ```
 
+<!-- @TODO
 ## tuple
 
 
@@ -59,7 +60,8 @@ let l: string[] = ['one', "two", "three"];
 
 ## literal
 
-## union
+## union 
+-->
 
 ## function
 
@@ -88,7 +90,7 @@ function myFunc(param1): string {
 
 Most of the time, typescript will actually infer the return type, which means this isn't necessary. But some projects add it to help document whats happening in the code.
 
-
+<!-- @TODO
 ## enum
 
 ## void
@@ -98,3 +100,4 @@ Most of the time, typescript will actually infer the return type, which means th
 ## none
 
 ## Custom Types
+ -->
