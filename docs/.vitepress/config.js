@@ -45,7 +45,7 @@ export default defineConfig({
           items: [
             {
               text: "What's a Recipe?",
-              link: "/notebook/ts/whats-a-recipe.md",
+              link: "/cookbook/whats-a-recipe.md",
             },
           ],
         },
