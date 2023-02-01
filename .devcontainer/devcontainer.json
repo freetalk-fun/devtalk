@@ -1,0 +1,20 @@
+{
+	"name": "Node.js",
+
+	"image": "mcr.microsoft.com/devcontainers/javascript-node:0-18",
+
+	// "features": 
+	// {
+	// 	"ghcr.io/devcontainers/features/git:1": {}
+	// },
+	// "postCreateCommand": "npm install && git config --global --add safe.directory /workspaces/devtalk",
+
+	"postCreateCommand": "npm install",
+	
+	"portsAttributes": {
+		"5173": {
+			"label": "Vitepress Dev",
+			"onAutoForward": "notify"
+		}
+	}
+}
