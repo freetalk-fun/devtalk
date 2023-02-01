@@ -5,7 +5,7 @@
 3. Clone the repo, then open the folder using VS Code.
 4. Open the VS Code command palette using Ctrl+Shift+P
 5. Select the command: "Dev Containers: Reopen in Container". This will spin up a container and install dependencies.
-6. Once the container is live, you can use 'Run and Debug' -> 'Vitepress' 
+6. Once the container is live, you can use 'Run and Debug' -> 'Vitepress' (Click 'Debug Anyway' if a warning about a problem matcher appears.)
 7. Alternately, you can run ```npm run dev``` in the VS Code terminal, then open http://localhost:5173 in your browser.
 
 
