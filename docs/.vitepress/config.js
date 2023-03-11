@@ -38,6 +38,15 @@ export default defineConfig({
             { text: "The Compiler", link: "/notebook/ts/the-compiler" },
           ],
         },
+        {
+          text: "Soft Skills",
+          items: [
+            {
+              text: "Work Hard or Smart?",
+              link: "/notebook/soft-skills/whether-to-work-hard-vs-smart.md",
+            },
+          ],
+        },
       ],
       "/cookbook/": [
         {
