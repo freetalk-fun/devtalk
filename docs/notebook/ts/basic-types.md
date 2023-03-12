@@ -40,6 +40,22 @@ let age: number =  30;
 
 ```
 
+## any
+
+You can use `any` as a catch-all type. Pass anything you want and you won't get type check errors. Here's a code example from the [official TypeScript docs](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#any).
+
+```ts
+let obj: any = { x: 0 };
+// None of the following lines of code will throw compiler errors.
+// Using `any` disables all further type checking, and it is assumed 
+// you know the environment better than TypeScript.
+obj.foo();
+obj();
+obj.bar = 100;
+obj = "hello";
+const n: number = obj;
+```
+
 ## array
 
 ```ts
