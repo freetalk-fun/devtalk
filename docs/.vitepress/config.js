@@ -43,7 +43,7 @@ export default defineConfig({
           items: [
             {
               text: "Work Hard or Smart?",
-              link: "/notebook/soft-skills/whether-to-work-hard-vs-smart.md",
+              link: "/notebook/soft-skills/work-hard-vs-smart.md",
             },
           ],
         },
