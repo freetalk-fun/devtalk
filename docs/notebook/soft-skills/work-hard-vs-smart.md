@@ -29,12 +29,12 @@ There are four elements to making an effective plan.
 | Strategies | These are the general approaches you take to reach the goal. They are conceptual in nature.                                                                              | 1. Strength Training 2. Improve Diet  3. Take performance drugs                                                                         |
 | Tactics    | This is “the work” you do… Tactics are the specific actions you take to move towards a goal. They create change in the world.                                            | 1. The daily weight lifting exercises you follow.  2. The foods you eat and when to eat them. 3. Testosterone boosters? Trambolin? HGH? |
 
-
+<!-- @TODO -->
 Tactics cost time and money to execute. To create a good plan, you need to create the optimum mix of tactics. How much you need to focus on diet vs exercise. Which diet to follow and which strength training routine to perform. And whether to take supplements/steroids or not are all optimization questions. But remember, this is a *stochastic* optimizaiton problem, as there is risk in everything we do.
 
 ## How to Account for Risk
 
-The tactics you choose come with risk. Always. Tactics are actions. For every action, there is an equal and opposite reaction. Thus, tactics cause real change to the world around you, and therefore always include **side-effects**. The world is not fully predictable. There is always risk that a tactic either won't work. Or even create unimagined side-effects.
+The tactics you choose come with side-effects and risks. Always. Tactics are actions. For every action, there is an equal and opposite reaction. Thus, tactics cause real change to the world around you, and therefore always include **side-effects**. The world is not fully predictable. There is always risk that a tactic either won't work. Or even create unimagined side-effects.
 
 People typically have multiple purposes as well as multiple goals. The side-effects from the tactics you choose can create problems that conflict with other goals and purposes. 
 
@@ -45,11 +45,11 @@ Now, let's imagine your purpose was actually, *to push your body to maximum phys
 Once you have a crystal-clear understanding of your purpose and an explicit goal set, the question of when you should “work hard” or “work smart” is no longer a philosophical debate. In fact, I'd argue this dichotomy collapses entirely.
 
 Working smart becomes...
-- Taking a traditionally high-risk tactic, where you believe you can manage the risk.
-- Spending time auditing resources and picking efficient strategies and tactics.
+- Taking high-risk tactics, in situations you believe you can manage the risk.
+- Spending time auditing resources, to pick efficient strategies and tactics.
 
 Working hard becomes...
-- Choosing lower-risk, or more proven tactics, where you believe you can manage risk.
+- Choosing lower-risk, or more proven tactics, to ensure you can manage risk.
 - Picking less complex tactics with known resource usage and side-effects.
 
 The new questions that emerge are: How much time do I have to make a plan? What are my resources? What's my risk tolerance?
@@ -62,7 +62,7 @@ When you've identified your true purpose, explicitly defined your S.M.A.R.T. goa
 
 First off, people can't make perfect plans. There is always going to be risk and inefficieny. 
 
-But we can make really good plans! Sadly, most people don't know how to do that.
+*But... we can make really good plans!* Sadly, most people don't know how to do that.
 
 The first major problem is that people often have poorly defined purpose and goals. And even mix these two items up together. Second, people neglect *(or are unable)* to properly audit or assess the resources available to them, so they choose goals, strategies and tactics that are not realistic. Third, they choose strategies and tactics without understanding the results, risks, and side-effects.
 
@@ -74,12 +74,12 @@ You must have the knowledge and intelligence to identify strategies and tactics 
 
 ## How to Get It Right
 
-Learning to make a good plan is difficult. It takes practice.
+Learning to do all this is difficult. It takes practice.
 
-It is a skill-set unto itself, just like writing, playing a sport, software engineering, music, and beyond. You can't get better by simply watching or reading about how to do these things. You need guided practice.
+Furthermore, planning is a skillset unto itself, just like writing, playing a sport, software engineering, music, and beyond. You can't get better by simply watching or reading about how to do these things. You need guided practice.
 
 If you're interested in learning how to make plans, I made a Udemy course on this topic in 2021. The content is targeted towards English language learners. For years, students always asked me, "How can I improve my English?". One day, I realized students have no idea how to make a plan. So I created a system to help my students help themselves. 
 
-The system still applies for any kind of plan, not just improving English. If you'd like to improve, I suggest you take my course: [Learn English FAST! How to Make a Plan](https://www.udemy.com/course/learn-english-faster-how-to-make-a-plan/?referralCode=4E68EE654F252BD53D56).
+The system applies for any kind of plan, not just improving English. If you'd like to get better at planning, I suggest you take my course: [Learn English FAST! How to Make a Plan](https://www.udemy.com/course/learn-english-faster-how-to-make-a-plan/?referralCode=4E68EE654F252BD53D56).
 
 It's fun and funny! And you'll learn a lot.
