@@ -60,7 +60,7 @@ When you've identified your true purpose, explicitly defined your S.M.A.R.T. goa
 
 ## Why People Get It All Wrong
 
-First off, people can't make perfect plans. There is always going to be risk and inefficieny. 
+First off, people can't make perfect plans. There is always going to be risk and inefficiency.
 
 *But... we can make really good plans!* Sadly, most people don't know how to do that.
 
