@@ -44,7 +44,7 @@
 }
 
 .dark {
-	--vp-c-green: var(--vp-c-green:);
+	--vp-c-green: var(--vp-c-green);
 	--vp-c-green-dimm-1: var(--vp-c-green-dimm-1);
 	--vp-c-green-dimm-2: var(--vp-c-green-dimm-1);
 	--vp-c-green-dimm-3: var(--vp-c-green-dimm-1);
