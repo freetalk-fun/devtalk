@@ -2,8 +2,8 @@
 layout: home
 
 hero:
-  name: DevTalk.fun
-  text: A blog and forum... for Devs!
+  name: DevTalk
+  text: A Blog for Devs!
   tagline: 
   actions:
     - theme: brand
@@ -15,9 +15,7 @@ hero:
 
 features:
   - title: A Notebook
-    details: My own extensive notes on software dev stuff. 
+    details: My own extensive notes on software and soft skills. 
   - title: A Cookbook
-    details: Talk to your peers in style.. on Discord!
-  - title: A Forum
-    details: A Place for Friends!
+    details: A collection of cool, useful code.
 ---
