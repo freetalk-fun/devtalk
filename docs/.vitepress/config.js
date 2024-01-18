@@ -47,6 +47,24 @@ export default defineConfig({
             },
           ],
         },
+        {
+          text: "Design",
+          items: [
+            {
+              text: "My Notes on AR/VR",
+              link: "/notebook/design/notes-on-ar-vr.md",
+            },
+          ],
+        },
+        {
+          text: "Documentation",
+          items: [
+            {
+              text: "A Unified Theory of Content",
+              link: "/notebook/documentation/a-unified-theory-of-content.md",
+            },
+          ],
+        },
       ],
       "/cookbook/": [
         {
